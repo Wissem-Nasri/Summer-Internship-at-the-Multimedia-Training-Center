@@ -19,3 +19,16 @@ RootRoot123
 ![image](https://github.com/user-attachments/assets/a1c7984f-f2bf-485f-9bdb-339e1dd171ea)
 
 ![image](https://github.com/user-attachments/assets/0c136a29-aff9-4a1d-8cf9-94a6fb81e816)
+## install splunk iniversal folder and sysmon in win10 
+
+![image](https://github.com/user-attachments/assets/3172b846-7d54-45f9-bc18-cea5dfe5fd17)
+
+
+![image](https://github.com/user-attachments/assets/c44130d5-f1a2-47d6-a2d1-289f5962244d)
+
+![image](https://github.com/user-attachments/assets/089ae274-b6e7-4e39-9a10-5bfd19330e2f)
+
+![image](https://github.com/user-attachments/assets/0d30c88d-5115-4887-b66a-1d309f32dd94)
+
+![image](https://github.com/user-attachments/assets/d6138ea4-f5ef-42b7-88c8-a9764ae14a0f)
+
