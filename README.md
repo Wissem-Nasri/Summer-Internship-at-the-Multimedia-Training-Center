@@ -32,3 +32,52 @@ RootRoot123
 
 ![image](https://github.com/user-attachments/assets/d6138ea4-f5ef-42b7-88c8-a9764ae14a0f)
 
+#### construct our splunk folder in what we want send to splunk server 
+
+![image](https://github.com/user-attachments/assets/1430a330-6ad2-4792-8a29-4f0f35f6f14c)
+
+C:\Program Files\SplunkUniversalForwarder\etc\system\default
+
+![image](https://github.com/user-attachments/assets/9ab0beca-65c9-4d1a-aa09-852d03a13e7b)
+
+but we will create a new file(local file)  and the exisitant one stay as it is 
+
+this is our splunk folder to push this to the servr (application,security ,system,sysmon)
+![image](https://github.com/user-attachments/assets/4f2fd0e6-a356-4c28-994d-227c3abfb18a)
+save as inputs.conf 
+![image](https://github.com/user-attachments/assets/48b3d61c-07e1-4d28-a319-2804b8f1a8ae)
+
+![image](https://github.com/user-attachments/assets/e471c903-dd69-451b-b891-6e219912a9d5)
+
+![image](https://github.com/user-attachments/assets/a4d4529a-4eb6-48a9-a714-0ae43b3f86a2)
+
+![image](https://github.com/user-attachments/assets/8e9e3fc2-d4b1-40e2-bdfa-83095b46bbe0)
+
+sysmon
+![image](https://github.com/user-attachments/assets/26e0c7f3-8055-41bd-a567-feb2e0334031)
+
+![image](https://github.com/user-attachments/assets/b7f100ad-0bd8-4683-8bef-d920643b62e3)
+
+## cinfig splunk endpoint 
+![image](https://github.com/user-attachments/assets/aa22b92e-8051-445c-8cdc-2e52c36e765d)
+
+![image](https://github.com/user-attachments/assets/c1cb98a5-9ab3-45df-a57a-816284ec3d6a)
+
+![image](https://github.com/user-attachments/assets/99316d91-3006-4d10-8321-e0a7e0205ba9)
+
+## enable splunk server to receive data 
+![image](https://github.com/user-attachments/assets/48e7c83c-cf87-4d84-826f-030f7bffe741)
+
+![image](https://github.com/user-attachments/assets/dd8451e6-f463-41d8-ad18-3af1039e6871)
+
+![image](https://github.com/user-attachments/assets/e842315e-956d-4bc0-8daa-4bb088181f91)
+
+
+![image](https://github.com/user-attachments/assets/c2da0be7-7f5c-41ca-a4bf-d91a622f53e8)
+
+![image](https://github.com/user-attachments/assets/237fb31d-e575-4abb-b847-7e95c63df5ce)
+
+
+![image](https://github.com/user-attachments/assets/3388e1ec-044d-4c63-b795-d2eb806b6d84)
+
+## we will add also AD stay tunned ! 
