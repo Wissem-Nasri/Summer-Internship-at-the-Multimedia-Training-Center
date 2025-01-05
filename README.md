@@ -81,3 +81,11 @@ sysmon
 ![image](https://github.com/user-attachments/assets/3388e1ec-044d-4c63-b795-d2eb806b6d84)
 
 ## we will add also AD stay tunned ! 
+##### same step to installation 
+username splunk in AD : AD
+
+![image](https://github.com/user-attachments/assets/d1e942cc-429b-4436-8a4a-f7497e3fd363)
+## 2 hosts added 
+
+![image](https://github.com/user-attachments/assets/f28424a3-b50c-401e-b764-dbcda53a81fd)
+
