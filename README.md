@@ -2,7 +2,7 @@
 Implemented Active Directory to enhance infrastructure security, integrating Splunk for monitoring and conducting attack simulations.
 ## Completed Architecture
 
-![Untitled Diagram](https://github.com/user-attachments/assets/7a9fdfd5-d2ad-42a6-aaee-438bca0bb0e5)
+![Untitled Diagram (1)](https://github.com/user-attachments/assets/25422f62-349b-4cde-bcb9-7ed81c86b8a8)
 
 ## install virtual machines 
 #### windows10,windows server 2019, kali linux et ubuntu server(splunk)
