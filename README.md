@@ -89,3 +89,74 @@ username splunk in AD : AD
 
 ![image](https://github.com/user-attachments/assets/f28424a3-b50c-401e-b764-dbcda53a81fd)
 
+## add 
+![image](https://github.com/user-attachments/assets/df84386e-daa2-4f24-b3d8-ad1cb1d35ad1)
+
+![image](https://github.com/user-attachments/assets/1854d2b2-6b2f-4b6d-b589-bd9606129137)
+## add new forest (new domain ) 
+![image](https://github.com/user-attachments/assets/8ca98d02-7170-46f8-adda-643ab1a5aafa)
+
+![image](https://github.com/user-attachments/assets/ebb72567-baa2-430d-bbf8-3bcfc507bdd7)
+
+## add organization of BTS AND BTP AND add user
+![image](https://github.com/user-attachments/assets/786d142c-f91c-4921-b91b-5e2f202e73b5)
+## add win10 
+#### pointed at our domain controller 
+
+![image](https://github.com/user-attachments/assets/ba3af466-a13d-4724-95f8-8d317ed352dc)
+
+![image](https://github.com/user-attachments/assets/c874b808-060d-4f2c-bdc9-0d1fd71ed306)
+#### added user to the daomain 
+![image](https://github.com/user-attachments/assets/8a941d78-0655-4a82-8c6c-bc77a88585f4)
+## attack similation  brute force 
+![image](https://github.com/user-attachments/assets/90b016d2-d3b3-401a-a7ab-b1948cf65990)
+#### enable remote desktop for two user
+![image](https://github.com/user-attachments/assets/59721b7e-dd6f-452a-94f1-7bb4a60a8d9d)
+#### rdp = remote desktop protocol 
+![image](https://github.com/user-attachments/assets/d76141bd-4125-4124-8801-f4ec1cb786dc)
+
+![image](https://github.com/user-attachments/assets/93f4b571-0a05-452c-a57b-bb8681be7277)
+
+![image](https://github.com/user-attachments/assets/c3071158-93cf-42a4-ac15-79edcdf91734)
+
+![image](https://github.com/user-attachments/assets/7ae1d986-6ce3-46db-b41c-5f4289f83969)
+
+![image](https://github.com/user-attachments/assets/8c3348f1-81a5-4488-8aa0-26f751db7263)
+
+![image](https://github.com/user-attachments/assets/c6aaece1-6251-4c51-803e-8b8f243d9991)
+
+![image](https://github.com/user-attachments/assets/90b82ff1-b137-4dde-bfcd-66c43c19cbff)
+
+#### info attacker
+![image](https://github.com/user-attachments/assets/e9c402d7-1423-4c5b-9bdc-f104b3794239)
+
+![image](https://github.com/user-attachments/assets/03bd89bf-70f1-45dd-812e-88cdd3ae7b55)
+
+## install ATM (atomic red team ) 
+![image](https://github.com/user-attachments/assets/3761192f-7d56-483d-856b-a800b4c303b9)
+
+![image](https://github.com/user-attachments/assets/523876d0-4e41-4825-b909-955614bccd09)
+
+![image](https://github.com/user-attachments/assets/420e32e3-bcc3-4857-84f9-2650ac375537)
+
+![image](https://github.com/user-attachments/assets/9bf1a604-9f6e-40a6-88a8-10894e37296d)
+## atomic test 
+#### technique id (MITRE|ATT&CK)
+
+![image](https://github.com/user-attachments/assets/c595536c-adb5-405b-9702-3793712d206d)
+
+ #### generate telemtry based on local account 
+ 
+![image](https://github.com/user-attachments/assets/f54194e7-1ea8-4ec7-8831-15154b5117ef)
+
+#### search fo newlocaluser
+
+![image](https://github.com/user-attachments/assets/674fae81-9aef-4285-aa2f-491ac559e7a5)
+
+#### detection localy 
+
+![image](https://github.com/user-attachments/assets/970cc4ac-14e5-4d0f-a8a4-3291f7eb5d5f)
+
+![image](https://github.com/user-attachments/assets/9daf1680-26ca-463b-841a-a21ab9b39aa1)
+
+![image](https://github.com/user-attachments/assets/2a981cab-a74a-4196-bd8e-bee7e70479bf)
