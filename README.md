@@ -1,6 +1,9 @@
 # Summer Internship at the Multimedia Training Center
 Implemented Active Directory to enhance infrastructure security, integrating Splunk for monitoring and conducting attack simulations.
 ## Completed Architecture
+
+![Untitled Diagram](https://github.com/user-attachments/assets/7a9fdfd5-d2ad-42a6-aaee-438bca0bb0e5)
+
 ## install virtual machines 
 #### windows10,windows server 2019, kali linux et ubuntu server(splunk)
 ![image](https://github.com/user-attachments/assets/3edecff7-204b-4008-8010-86ecc28acc8b)
